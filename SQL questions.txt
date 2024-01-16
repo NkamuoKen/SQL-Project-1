@@ -1,0 +1,27 @@
+1. Retrieve all columns for the first 10 rows in the healthcare_facility_data table.
+
+2. Count the total number of records in the healthcare_facility_data table.
+
+3. Select unique states from the healthcare_facility_data table.
+
+4. Find the average number of doctors in the dataset.
+
+5. Identify facilities with operational hours greater than 12.
+
+6. List the top 5 facility names with the highest number of nurses.
+
+7. Calculate the total number of beds in each state.
+
+8. Find facilities where both doctors and pharmacists are present.
+
+9. Identify the facility with the highest total number of healthcare professionals (doctors + pharmacists + dentists + ...).
+
+10. Find the top 5 states with the highest average number of doctors per facility.
+
+11. Identify facilities that have more pharmacists than the average number of pharmacists in their respective states.
+
+12. Calculate the median number of nurses for each facility level and order the results by the median in descending order.
+
+13. Find the facility with the highest number of healthcare professionals in each state.
+
+14. Rank the facilities within each state based on the density of healthcare professionals (number of professionals per bed), and select the top 3 facilities in each state.
